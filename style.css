@@ -30,7 +30,8 @@ footer {
   font-weight: 600;
   font-size: 14px;
   line-height: 17px;
-  /* identical to box height */
+  text-align: center;
+  height: 17px;
 
   color: #333333;
 }
@@ -126,7 +127,7 @@ main > h1 {
   }
 
   footer {
-    left: 607px;
+    width: 1440px;
     top: 1024px;
   }
 }
@@ -177,7 +178,7 @@ main > h1 {
   }
 
   footer {
-    left: 75px;
+    width: 375px;
     top: 890px;
   }
 }
