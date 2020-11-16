@@ -105,7 +105,7 @@ main > h1 {
   main > h1 {
     max-width: 586px;
     left: 51%;
-    top: 18.4%;
+    top: 265px;
 
     font-size: 64px;
     line-height: 95px;
@@ -115,13 +115,13 @@ main > h1 {
     position: absolute;
     width: 37.5%;
     left: 5.35%;
-    top: 24.5%;
+    top: 265px;
   }
 
   .msg-404 {
     max-width: 381px;
     left: 51.1%;
-    top: 45%;
+    top: 491px;
 
     font-size: 24px;
     line-height: 36px;
@@ -129,12 +129,12 @@ main > h1 {
 
   .btn-gray {
     left: 51.3%;
-    top: 61.4%;
+    top: 663px;
   }
 
   footer {
     width: 100%;
-    top: 95%;
+    top: 900px;
   }
 }
 
