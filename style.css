@@ -173,7 +173,8 @@ main > h1 {
   }
 
   .msg-404 {
-    width: 328px;
+    width: 93%;
+    max-width: 500px;
     top: 578px;
     margin: 0 auto;
     left: 0;
